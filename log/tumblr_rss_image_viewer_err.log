@@ -1,0 +1,17 @@
+2014-07-27 01:53:33,938 ERROR [JDBCExceptionReporter:78] - Cannot create PoolableConnectionFactory (Database may be already in use: "Locked by another process". Possible solutions: close all other connection(s); use the server mode [90020-173])
+2014-07-27 02:22:24,891 ERROR [RssReaderCore:373] - 2.java.lang.IllegalArgumentException: Host name may not be null
+2014-07-27 22:43:29,050 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: gagsandmemes.tumblr.com
+2014-07-27 23:04:40,834 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: josescalia.tumblr.com
+2014-07-27 23:05:26,543 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: masukbusway.com
+2014-07-27 23:05:57,304 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: masukbusway.com
+2014-07-27 23:06:40,438 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: masukbusway.com
+2014-08-01 20:38:57,100 ERROR [MainFrame$9:386] - org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'mainForm' is defined
+2014-08-01 20:55:15,821 ERROR [MainFrame$7:356] - org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'experimentsForm' is defined
+2014-08-01 20:55:20,946 ERROR [MainFrame$7:356] - org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'urlCrawlerForm' is defined
+2014-08-01 20:55:29,007 ERROR [MainFrame$7:356] - org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'urlCrawlerForm' is defined
+2014-08-01 21:48:14,183 ERROR [MainFrame$7:356] - java.lang.ClassCastException: com.josescalia.tumblr.form.TumblrRssFavList cannot be cast to com.josescalia.tumblr.app.BaseForm
+2014-08-01 21:48:28,339 ERROR [MainFrame$7:356] - java.lang.ClassCastException: com.josescalia.tumblr.form.TumblrRssFavList cannot be cast to com.josescalia.tumblr.app.BaseForm
+2014-08-01 22:16:27,969 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: gagsandmemes.tumblr.com
+2014-08-16 09:36:04,204 ERROR [MainFrame$7:357] - java.lang.IllegalStateException: BeanFactory not initialized or already closed - call 'refresh' before accessing beans via the ApplicationContext
+2014-08-16 09:36:08,664 ERROR [MainFrame$7:357] - java.lang.IllegalStateException: BeanFactory not initialized or already closed - call 'refresh' before accessing beans via the ApplicationContext
+2014-08-16 09:38:35,077 ERROR [MainFrame$7:357] - java.lang.IllegalStateException: BeanFactory not initialized or already closed - call 'refresh' before accessing beans via the ApplicationContext

@@ -1,0 +1,1025 @@
+2014-07-27 01:37:55,422 INFO [RssReaderCore:431] - ========================= Connection info =========================
+2014-07-27 01:37:55,426 INFO [RssReaderCore:432] - Connection Using Proxy : false
+2014-07-27 01:37:55,427 INFO [RssReaderCore:442] - ===================================================================
+2014-07-27 01:38:16,317 INFO [RssReaderCore:390] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 01:38:16,324 INFO [RssReaderCore:413] - Creating xml cache done!!
+2014-07-27 01:45:24,351 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 01:45:24,354 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 01:45:24,355 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 01:45:39,469 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 01:45:39,476 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 01:45:42,006 INFO [TumblrImageViewer:704] - RssItem{title='music-is-the-erotic:http://music-is-the-erotic.tumblr.com/', link='http://2ndvenus.tumblr.com/post/92917279965', guid='http://2ndvenus.tumblr.com/post/92917279965', pubDate='Sat, 26 Jul 2014 15:05:42 +0200', category='', description='music-is-the-erotic:http://music-is-the-erotic.tumblr.com/', image='<img src="http://33.media.tumblr.com/2857da6a1a6fa83383df32693e211afc/tumblr_mv288pKwew1r58r3bo1_500.jpg"/>', imageList=[DownloadableImage{url='http://33.media.tumblr.com/2857da6a1a6fa83383df32693e211afc/tumblr_mv288pKwew1r58r3bo1_500.jpg', urlType='', selected=true}]}
+2014-07-27 01:46:39,475 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 01:46:39,478 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 01:46:39,479 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 01:46:44,472 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 01:46:44,752 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 01:46:46,496 INFO [TumblrImageViewer:704] - RssItem{title='Alphard B 8068 ini masuk putaran halte busway depan stasiun Kota...', link='http://masukbusway.com/post/73604081518', guid='http://masukbusway.com/post/73604081518', pubDate='Fri, 17 Jan 2014 17:46:02 +0700', category='', description='Alphard B 8068 ini masuk putaran halte busway depan stasiun Kota tanpa punya rasa malu', image='<img src="http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg"/>', imageList=[DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]}
+2014-07-27 01:46:49,978 INFO [TumblrImageViewer:704] - RssItem{title='Mobil dinas TNI 1317-00 masuk busway', link='http://masukbusway.com/post/66333655326', guid='http://masukbusway.com/post/66333655326', pubDate='Fri, 08 Nov 2013 09:20:57 +0700', category='', description='Mobil dinas TNI 1317-00 masuk busway', image='<img src="http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg"/>', imageList=[DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]}
+2014-07-27 01:47:03,477 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 01:47:03,478 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 01:47:03,478 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 01:47:05,031 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 01:47:05,147 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 01:47:06,703 INFO [TumblrImageViewer:704] - RssItem{title='Love at first sight is dangerous', link='http://gagsandmemes.tumblr.com/post/87112211031', guid='http://gagsandmemes.tumblr.com/post/87112211031', pubDate='Wed, 28 May 2014 12:46:52 -0400', category='Love', description='Love at first sight is dangerous', image='<img src="http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg"/>', imageList=[DownloadableImage{url='http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg', urlType='', selected=true}]}
+2014-07-27 01:47:12,911 INFO [TumblrImageViewer:704] - RssItem{title='Photo', link='http://gagsandmemes.tumblr.com/post/28763825128', guid='http://gagsandmemes.tumblr.com/post/28763825128', pubDate='Sun, 05 Aug 2012 09:22:00 -0400', category='girls', description='', image='<img src="http://33.media.tumblr.com/tumblr_m86n782avQ1rbr6i2o1_500.jpg"/>', imageList=[DownloadableImage{url='http://33.media.tumblr.com/tumblr_m86n782avQ1rbr6i2o1_500.jpg', urlType='', selected=true}]}
+2014-07-27 01:47:31,284 INFO [TumblrImageViewer:704] - RssItem{title='Just a random picture.', link='http://gagsandmemes.tumblr.com/post/28756621622', guid='http://gagsandmemes.tumblr.com/post/28756621622', pubDate='Sun, 05 Aug 2012 04:39:11 -0400', category='heights', description='Just a random picture.', image='<img src="http://37.media.tumblr.com/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg"/>', imageList=[DownloadableImage{url='http://37.media.tumblr.com/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg', urlType='', selected=true}]}
+2014-07-27 01:47:43,611 INFO [TumblrImageViewer:704] - RssItem{title='The Art of Trolling.', link='http://gagsandmemes.tumblr.com/post/28658283859', guid='http://gagsandmemes.tumblr.com/post/28658283859', pubDate='Fri, 03 Aug 2012 19:09:47 -0400', category='troll', description='The Art of Trolling.', image='<img src="http://31.media.tumblr.com/tumblr_m86mb2bP5I1rbr6i2o1_500.jpg"/>', imageList=[DownloadableImage{url='http://31.media.tumblr.com/tumblr_m86mb2bP5I1rbr6i2o1_500.jpg', urlType='', selected=true}]}
+2014-07-27 01:53:33,938 ERROR [JDBCExceptionReporter:78] - Cannot create PoolableConnectionFactory (Database may be already in use: "Locked by another process". Possible solutions: close all other connection(s); use the server mode [90020-173])
+2014-07-27 01:53:48,407 INFO [Bootstrap:48] - Application Running!
+2014-07-27 01:55:39,335 INFO [Bootstrap:48] - Application Running!
+2014-07-27 01:58:03,502 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:04:09,606 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:04:32,059 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:05:24,379 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:05:36,777 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:05:36,779 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:05:36,780 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:05:40,484 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:05:40,489 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:05:42,787 INFO [TumblrImageViewer:703] - RssItem{title='B 1065 SOL, Jalur busway Mampang - Kuningan.', link='http://masukbusway.com/post/66330494601', guid='http://masukbusway.com/post/66330494601', pubDate='Fri, 08 Nov 2013 08:45:02 +0700', category='', description='B 1065 SOL, Jalur busway Mampang - Kuningan.', image='<img src="http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg"/>', imageList=[DownloadableImage{url='http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg', urlType='', selected=true}]}
+2014-07-27 02:05:45,344 INFO [TumblrImageViewer:703] - RssItem{title='Tertangkap petugas ketika masuk jalur TJ, tapi dilepas lagi krn...', link='http://masukbusway.com/post/65979097258', guid='http://masukbusway.com/post/65979097258', pubDate='Mon, 04 Nov 2013 14:01:32 +0700', category='', description='Tertangkap petugas ketika masuk jalur TJ, tapi dilepas lagi krn plat-nya “B 1” (B 1 BIE)', image='<img src="http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg"/>', imageList=[DownloadableImage{url='http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg', urlType='', selected=true}]}
+2014-07-27 02:06:29,589 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:06:36,761 INFO [TumblrImageViewer:593] - OsName unix
+2014-07-27 02:06:36,763 INFO [TumblrImageViewer:594] - Folder to open /media/WIN_E/Data/Installer/portable/TumblrRssImageViewer/images
+2014-07-27 02:08:58,464 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:10:09,868 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:10:22,549 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:10:22,550 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:10:22,551 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:10:53,845 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:10:53,848 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:10:56,643 INFO [TumblrImageViewer:703] - RssItem{title='Photo', link='http://9gag-bestof.tumblr.com/post/30693758022', guid='http://9gag-bestof.tumblr.com/post/30693758022', pubDate='Sun, 02 Sep 2012 03:35:06 +0200', category='9gag', description='', image='<img src="http://38.media.tumblr.com/tumblr_m9p8ei5xga1re3reeo1_500.jpg"/>', imageList=[DownloadableImage{url='http://38.media.tumblr.com/tumblr_m9p8ei5xga1re3reeo1_500.jpg', urlType='', selected=true}]}
+2014-07-27 02:18:08,435 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:18:20,242 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:18:20,244 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:18:20,245 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:18:25,031 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:18:25,035 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:18:28,985 INFO [TumblrImageViewer:636] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:19:58,655 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:20:21,622 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:20:45,163 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:20:55,194 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:20:55,195 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:20:55,196 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:20:59,594 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:20:59,598 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:21:02,674 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg"/>
+2014-07-27 02:21:37,800 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/tumblr_m81d54eqb51rbr6i2o1_500.jpg"/>
+2014-07-27 02:21:44,434 INFO [TumblrImageViewer:636] - <img src="http://31.media.tumblr.com/tumblr_m81cxopA181rbr6i2o1_500.jpg"/>
+2014-07-27 02:21:53,831 INFO [TumblrImageViewer:636] - <img src="http://33.media.tumblr.com/tumblr_m81csdL3HM1rbr6i2o1_500.jpg"/>
+2014-07-27 02:22:24,885 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:22:24,886 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:22:24,887 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:22:24,891 ERROR [RssReaderCore:373] - 2.java.lang.IllegalArgumentException: Host name may not be null
+2014-07-27 02:22:24,894 INFO [RssReaderCore:178] - Exception :File cannot be null
+2014-07-27 02:22:29,745 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:22:29,746 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:22:29,748 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:22:33,279 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:22:33,283 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:22:38,802 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/8009703df88dd41ca4e0f94a43190bcc/tumblr_n99e2kqYSV1s83r10o1_500.jpg"/>
+2014-07-27 02:22:49,812 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/caa970242492157bf76ce140f29362e8/tumblr_n8rrkazsn01tqglc8o1_500.jpg"/>
+2014-07-27 02:23:01,909 INFO [TumblrImageViewer:636] - <img src="http://33.media.tumblr.com/e659475e80c6eed6833473d0fa31e10e/tumblr_n8szpggkpT1tbrlb7o1_400.jpg"/>
+2014-07-27 02:23:13,846 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:23:13,848 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:23:13,849 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:23:17,854 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:23:17,858 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:23:20,707 INFO [TumblrImageViewer:636] - <img src="http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:24,347 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:26,819 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/74461caea52a9fa54a0af0364e952833/tumblr_mvq4p3oENq1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:30,179 INFO [TumblrImageViewer:636] - <img src="http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:32,708 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/11f8c64d1365e7363070e005f920235a/tumblr_mvkyt74hLt1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:36,127 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/9b56e2341da8b0271d38fb1a161bd174/tumblr_mvcwb3DSRj1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:39,378 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/9e1aa86a7064b77ffae1f60c7c1f7bac/tumblr_mtpnj6PFV01sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:41,268 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:43,473 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:46,040 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:47,820 INFO [TumblrImageViewer:636] - <img src="http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:49,980 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:52,339 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:53,938 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/c5acd1fd005cf60e52e5c0b3bce5cff9/tumblr_mvpwex6RVk1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:57,295 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/843a3d3d3f90c3847e8101a4ad123b49/tumblr_mvq4t6kahY1sdbfjbo1_500.jpg"/>
+2014-07-27 02:23:59,722 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/f25b66a169210fa62ace666ccde602c9/tumblr_mvof32UIli1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:02,023 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/74461caea52a9fa54a0af0364e952833/tumblr_mvq4p3oENq1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:07,269 INFO [TumblrImageViewer:636] - <img src="http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:12,778 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/0dffb4ae385a95319092da4900872a17/tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:16,535 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/11f8c64d1365e7363070e005f920235a/tumblr_mvkyt74hLt1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:19,668 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/25dd0560cf2d5ade00bdc78823316301/tumblr_mvkrfm2xzT1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:23,698 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/6240414de57a8e5b8dbc9779adf05da7/tumblr_munwso94qt1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:27,371 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/9fd516ad5fc251ea63666c6d9b2a59fb/tumblr_mufhjhACJH1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:31,025 INFO [TumblrImageViewer:636] - <img src="http://33.media.tumblr.com/4ebb3f369c7d181d6f66e34a972bdf90/tumblr_mu2kctmd2W1sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:41,028 INFO [TumblrImageViewer:636] - <img src="http://38.media.tumblr.com/9e1aa86a7064b77ffae1f60c7c1f7bac/tumblr_mtpnj6PFV01sdbfjbo1_500.jpg"/>
+2014-07-27 02:24:48,811 INFO [TumblrImageViewer:636] - <img src="http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg"/>
+2014-07-27 02:30:47,605 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:30:57,148 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:30:57,150 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:30:57,151 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:31:00,677 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:31:00,681 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:31:02,224 INFO [TumblrImageViewer:636] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:37:29,476 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:37:40,794 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:37:40,796 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:37:40,797 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:37:43,986 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:37:43,991 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:37:45,079 INFO [TumblrImageViewer:604] - fileName :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:37:45,080 INFO [TumblrImageViewer:605] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:37:45,081 INFO [TumblrImageViewer:651] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:40:03,358 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:40:11,829 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:40:11,830 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:40:11,831 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:40:18,175 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:40:18,180 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:40:19,430 INFO [TumblrImageViewer:604] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:40:19,431 INFO [TumblrImageViewer:605] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:40:19,432 INFO [TumblrImageViewer:651] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:45:16,217 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:45:33,787 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:45:33,789 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:45:33,790 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:45:37,669 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:45:37,672 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:45:38,704 INFO [TumblrImageViewer:605] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:45:38,705 INFO [TumblrImageViewer:606] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:45:38,709 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:45:38,711 INFO [BinaryCacheUtil:47] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:45:38,712 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:45:38,714 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:45:38,715 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:45:40,181 INFO [RetryExec:93] - I/O exception (java.net.SocketException) caught when processing request: Connection reset
+2014-07-27 02:45:40,183 INFO [RetryExec:106] - Retrying request
+2014-07-27 02:45:47,155 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:45:55,453 INFO [TumblrImageViewer:605] - fileName :tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:45:55,454 INFO [TumblrImageViewer:606] - Download URL :http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:45:55,456 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:45:55,457 INFO [BinaryCacheUtil:47] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:45:55,459 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:45:55,461 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:45:55,462 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:45:59,707 INFO [RetryExec:93] - I/O exception (java.net.SocketException) caught when processing request: Connection reset
+2014-07-27 02:45:59,709 INFO [RetryExec:106] - Retrying request
+2014-07-27 02:46:03,527 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:46:06,795 INFO [TumblrImageViewer:605] - fileName :tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:46:06,797 INFO [TumblrImageViewer:606] - Download URL :http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:46:06,798 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:46:06,800 INFO [BinaryCacheUtil:47] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:46:06,802 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:46:06,803 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:46:06,805 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:46:07,568 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:46:09,621 INFO [TumblrImageViewer:605] - fileName :tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-07-27 02:46:09,622 INFO [TumblrImageViewer:606] - Download URL :http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-07-27 02:46:09,623 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:46:09,624 INFO [BinaryCacheUtil:47] - File tumblr_mvq8rdloh21sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq8rdloh21sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:46:09,625 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:46:09,626 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-07-27 02:46:09,627 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:46:11,675 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:46:13,036 INFO [TumblrImageViewer:605] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:46:13,038 INFO [TumblrImageViewer:606] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:46:13,039 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:46:13,041 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:46:13,050 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:46:13,865 INFO [TumblrImageViewer:605] - fileName :tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:46:13,866 INFO [TumblrImageViewer:606] - Download URL :http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:46:13,868 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:46:13,869 INFO [BinaryCacheUtil:44] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:46:13,879 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:46:14,609 INFO [TumblrImageViewer:605] - fileName :tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:46:14,611 INFO [TumblrImageViewer:606] - Download URL :http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:46:14,612 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:46:14,614 INFO [BinaryCacheUtil:44] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg found...!!
+2014-07-27 02:46:14,622 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:46:15,259 INFO [TumblrImageViewer:605] - fileName :tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-07-27 02:46:15,260 INFO [TumblrImageViewer:606] - Download URL :http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-07-27 02:46:15,261 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:46:15,263 INFO [BinaryCacheUtil:44] - File tumblr_mvq8rdloh21sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq8rdloh21sdbfjbo1_500.jpg found...!!
+2014-07-27 02:46:15,272 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:46:15,839 INFO [TumblrImageViewer:605] - fileName :tumblr_mvki1n3gQN1sdbfjbo1_500.jpg
+2014-07-27 02:46:15,840 INFO [TumblrImageViewer:606] - Download URL :http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg
+2014-07-27 02:46:15,841 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:46:15,843 INFO [BinaryCacheUtil:47] - File tumblr_mvki1n3gQN1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:46:15,844 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:46:15,846 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg
+2014-07-27 02:46:15,847 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:46:16,582 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:46:46,604 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:47:00,400 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:47:00,401 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:47:00,402 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:47:04,050 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:47:04,053 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:47:05,316 INFO [TumblrImageViewer:605] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:47:05,317 INFO [TumblrImageViewer:606] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:47:05,319 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:47:05,319 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:47:05,335 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:47:07,045 INFO [TumblrImageViewer:605] - fileName :tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:47:07,046 INFO [TumblrImageViewer:606] - Download URL :http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:47:07,048 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:47:07,050 INFO [BinaryCacheUtil:44] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:47:07,059 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:47:08,775 INFO [TumblrImageViewer:605] - fileName :tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:47:08,777 INFO [TumblrImageViewer:606] - Download URL :http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:47:08,778 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:47:08,780 INFO [BinaryCacheUtil:44] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg found...!!
+2014-07-27 02:47:08,789 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:47:10,529 INFO [TumblrImageViewer:605] - fileName :tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-07-27 02:47:10,530 INFO [TumblrImageViewer:606] - Download URL :http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-07-27 02:47:10,532 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:47:10,533 INFO [BinaryCacheUtil:44] - File tumblr_mvq8rdloh21sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq8rdloh21sdbfjbo1_500.jpg found...!!
+2014-07-27 02:47:10,540 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:47:12,305 INFO [TumblrImageViewer:605] - fileName :tumblr_mvki1n3gQN1sdbfjbo1_500.jpg
+2014-07-27 02:47:12,307 INFO [TumblrImageViewer:606] - Download URL :http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg
+2014-07-27 02:47:12,308 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:47:12,310 INFO [BinaryCacheUtil:44] - File tumblr_mvki1n3gQN1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:47:12,320 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:47:14,279 INFO [TumblrImageViewer:605] - fileName :tumblr_mv2n50VJOp1sdbfjbo1_500.jpg
+2014-07-27 02:47:14,281 INFO [TumblrImageViewer:606] - Download URL :http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg
+2014-07-27 02:47:14,282 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:47:14,284 INFO [BinaryCacheUtil:47] - File tumblr_mv2n50VJOp1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:47:14,286 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:47:14,288 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg
+2014-07-27 02:47:14,290 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:47:16,875 INFO [TumblrImageViewer:656] - [DownloadableImage{url='http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:48:22,316 INFO [Bootstrap:48] - Application Running!
+2014-07-27 02:48:33,708 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 02:48:33,710 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 02:48:33,711 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 02:48:36,857 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 02:48:36,862 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 02:48:38,276 INFO [TumblrImageViewer:606] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:48:38,277 INFO [TumblrImageViewer:607] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:48:38,281 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:48:38,283 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:48:38,302 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:48:39,532 INFO [TumblrImageViewer:606] - fileName :tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:48:39,533 INFO [TumblrImageViewer:607] - Download URL :http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:48:39,535 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:48:39,537 INFO [BinaryCacheUtil:44] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:48:39,546 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:48:41,450 INFO [TumblrImageViewer:606] - fileName :tumblr_mvogbirJYA1sdbfjbo1_500.jpg
+2014-07-27 02:48:41,452 INFO [TumblrImageViewer:607] - Download URL :http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg
+2014-07-27 02:48:41,453 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:48:41,455 INFO [BinaryCacheUtil:47] - File tumblr_mvogbirJYA1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvogbirJYA1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:48:41,457 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:48:41,458 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg
+2014-07-27 02:48:41,459 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:48:51,453 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:48:56,009 INFO [TumblrImageViewer:606] - fileName :tumblr_mvof32UIli1sdbfjbo1_500.jpg
+2014-07-27 02:48:56,010 INFO [TumblrImageViewer:607] - Download URL :http://38.media.tumblr.com/f25b66a169210fa62ace666ccde602c9/tumblr_mvof32UIli1sdbfjbo1_500.jpg
+2014-07-27 02:48:56,011 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:48:56,012 INFO [BinaryCacheUtil:47] - File tumblr_mvof32UIli1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvof32UIli1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:48:56,013 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:48:56,014 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/f25b66a169210fa62ace666ccde602c9/tumblr_mvof32UIli1sdbfjbo1_500.jpg
+2014-07-27 02:48:56,015 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:48:57,610 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://38.media.tumblr.com/f25b66a169210fa62ace666ccde602c9/tumblr_mvof32UIli1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:48:58,617 INFO [TumblrImageViewer:606] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:48:58,619 INFO [TumblrImageViewer:607] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 02:48:58,621 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:48:58,623 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:48:58,633 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:48:59,675 INFO [TumblrImageViewer:606] - fileName :tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:48:59,676 INFO [TumblrImageViewer:607] - Download URL :http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 02:48:59,677 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:48:59,678 INFO [BinaryCacheUtil:44] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:48:59,682 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:49:00,564 INFO [TumblrImageViewer:606] - fileName :tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:49:00,565 INFO [TumblrImageViewer:607] - Download URL :http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 02:49:00,567 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:49:00,569 INFO [BinaryCacheUtil:44] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg found...!!
+2014-07-27 02:49:00,578 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:49:01,958 INFO [TumblrImageViewer:606] - fileName :tumblr_mvogbirJYA1sdbfjbo1_500.jpg
+2014-07-27 02:49:01,959 INFO [TumblrImageViewer:607] - Download URL :http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg
+2014-07-27 02:49:01,961 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:49:01,962 INFO [BinaryCacheUtil:44] - File tumblr_mvogbirJYA1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvogbirJYA1sdbfjbo1_500.jpg found...!!
+2014-07-27 02:49:01,967 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:49:03,488 INFO [TumblrImageViewer:606] - fileName :tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg
+2014-07-27 02:49:03,490 INFO [TumblrImageViewer:607] - Download URL :http://38.media.tumblr.com/6c870a67d6494fc70c63ffb2de97e720/tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg
+2014-07-27 02:49:03,491 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:49:03,493 INFO [BinaryCacheUtil:47] - File tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:49:03,494 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:49:03,496 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/6c870a67d6494fc70c63ffb2de97e720/tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg
+2014-07-27 02:49:03,497 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:49:05,166 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://38.media.tumblr.com/6c870a67d6494fc70c63ffb2de97e720/tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:49:09,147 INFO [TumblrImageViewer:606] - fileName :tumblr_mvkrfm2xzT1sdbfjbo1_500.jpg
+2014-07-27 02:49:09,149 INFO [TumblrImageViewer:607] - Download URL :http://38.media.tumblr.com/25dd0560cf2d5ade00bdc78823316301/tumblr_mvkrfm2xzT1sdbfjbo1_500.jpg
+2014-07-27 02:49:09,151 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:49:09,152 INFO [BinaryCacheUtil:47] - File tumblr_mvkrfm2xzT1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvkrfm2xzT1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:49:09,153 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:49:09,155 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/25dd0560cf2d5ade00bdc78823316301/tumblr_mvkrfm2xzT1sdbfjbo1_500.jpg
+2014-07-27 02:49:09,156 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:49:14,190 INFO [TumblrImageViewer:659] - [DownloadableImage{url='http://38.media.tumblr.com/25dd0560cf2d5ade00bdc78823316301/tumblr_mvkrfm2xzT1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 02:49:18,745 INFO [TumblrImageViewer:606] - fileName :tumblr_munwso94qt1sdbfjbo1_500.jpg
+2014-07-27 02:49:18,747 INFO [TumblrImageViewer:607] - Download URL :http://38.media.tumblr.com/6240414de57a8e5b8dbc9779adf05da7/tumblr_munwso94qt1sdbfjbo1_500.jpg
+2014-07-27 02:49:18,748 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 02:49:18,750 INFO [BinaryCacheUtil:47] - File tumblr_munwso94qt1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_munwso94qt1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 02:49:18,751 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 02:49:18,752 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/6240414de57a8e5b8dbc9779adf05da7/tumblr_munwso94qt1sdbfjbo1_500.jpg
+2014-07-27 02:49:18,753 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 02:50:39,708 INFO [Bootstrap:48] - Application Running!
+2014-07-27 03:02:45,284 INFO [Bootstrap:58] - Property file is not exist, begin writting...
+2014-07-27 03:02:51,897 INFO [Bootstrap:48] - Application Running!
+2014-07-27 03:04:11,502 INFO [Bootstrap:48] - Application Running!
+2014-07-27 03:04:28,200 INFO [PreferenceForm:687] - deleting cache
+2014-07-27 03:04:28,202 INFO [PreferenceForm:690] - deleting file tumblr_munwso94qt1sdbfjbo1_500.jpg
+2014-07-27 03:04:28,204 INFO [PreferenceForm:690] - deleting file tumblr_mv2n50VJOp1sdbfjbo1_500.jpg
+2014-07-27 03:04:28,205 INFO [PreferenceForm:690] - deleting file tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg
+2014-07-27 03:04:28,207 INFO [PreferenceForm:690] - deleting file tumblr_mvki1n3gQN1sdbfjbo1_500.jpg
+2014-07-27 03:04:28,208 INFO [PreferenceForm:690] - deleting file tumblr_mvkrfm2xzT1sdbfjbo1_500.jpg
+2014-07-27 03:04:28,211 INFO [PreferenceForm:690] - deleting file tumblr_mvof32UIli1sdbfjbo1_500.jpg
+2014-07-27 03:04:28,212 INFO [PreferenceForm:690] - deleting file tumblr_mvogbirJYA1sdbfjbo1_500.jpg
+2014-07-27 03:04:28,213 INFO [PreferenceForm:690] - deleting file tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-07-27 03:04:28,215 INFO [PreferenceForm:690] - deleting file tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 03:04:28,216 INFO [PreferenceForm:690] - deleting file tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-07-27 03:04:28,217 INFO [PreferenceForm:690] - deleting file tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 22:42:18,734 INFO [Bootstrap:48] - Application Running!
+2014-07-27 22:42:28,850 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 22:42:28,852 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 22:42:28,853 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 22:43:09,033 INFO [RetryExec:93] - I/O exception (java.net.SocketException) caught when processing request: Connection reset
+2014-07-27 22:43:09,035 INFO [RetryExec:106] - Retrying request
+2014-07-27 22:43:29,050 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: gagsandmemes.tumblr.com
+2014-07-27 22:43:29,054 INFO [RssReaderCore:178] - Exception :File cannot be null
+2014-07-27 23:02:03,702 INFO [Bootstrap:48] - Application Running!
+2014-07-27 23:02:54,974 INFO [Bootstrap:58] - Property file is not exist, begin writting...
+2014-07-27 23:03:53,038 INFO [Bootstrap:58] - Property file is not exist, begin writting...
+2014-07-27 23:03:57,556 INFO [Bootstrap:48] - Application Running!
+2014-07-27 23:04:20,584 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 23:04:20,586 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 23:04:20,587 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 23:04:40,834 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: josescalia.tumblr.com
+2014-07-27 23:04:40,838 INFO [RssReaderCore:178] - Exception :File cannot be null
+2014-07-27 23:05:06,526 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 23:05:06,527 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 23:05:06,528 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 23:05:26,543 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: masukbusway.com
+2014-07-27 23:05:26,547 INFO [RssReaderCore:178] - Exception :File cannot be null
+2014-07-27 23:05:37,283 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 23:05:37,285 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 23:05:37,286 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 23:05:57,304 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: masukbusway.com
+2014-07-27 23:05:57,307 INFO [RssReaderCore:178] - Exception :File cannot be null
+2014-07-27 23:06:20,417 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 23:06:20,419 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 23:06:20,420 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 23:06:40,438 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: masukbusway.com
+2014-07-27 23:06:40,442 INFO [RssReaderCore:178] - Exception :File cannot be null
+2014-07-27 23:08:02,672 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-27 23:08:02,673 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-27 23:08:02,674 INFO [RssReaderCore:395] - ===================================================================
+2014-07-27 23:08:19,559 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-27 23:08:19,562 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-27 23:08:24,036 INFO [TumblrImageViewer:620] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 23:08:24,037 INFO [TumblrImageViewer:621] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 23:08:24,039 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 23:08:24,040 INFO [BinaryCacheUtil:47] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 23:08:24,041 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 23:08:24,041 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-27 23:08:24,042 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 23:08:37,535 INFO [TumblrImageViewer:673] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 23:08:40,930 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 23:08:40,932 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-07-27 23:09:16,878 INFO [TumblrImageViewer:620] - fileName :tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 23:09:16,880 INFO [TumblrImageViewer:621] - Download URL :http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 23:09:16,880 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-27 23:09:16,882 INFO [BinaryCacheUtil:47] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-27 23:09:16,882 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-27 23:09:16,883 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-07-27 23:09:16,884 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-27 23:09:27,038 INFO [TumblrImageViewer:673] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-27 23:16:14,565 INFO [Bootstrap:48] - Application Running!
+2014-07-27 23:16:41,534 INFO [Bootstrap:48] - Application Running!
+2014-07-27 23:17:18,676 INFO [Bootstrap:48] - Application Running!
+2014-07-27 23:19:18,232 INFO [Bootstrap:48] - Application Running!
+2014-07-28 16:34:30,779 INFO [Bootstrap:48] - Application Running!
+2014-07-28 16:34:44,688 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-28 16:34:44,690 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-28 16:34:44,691 INFO [RssReaderCore:395] - ===================================================================
+2014-07-28 16:34:47,983 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-28 16:34:47,988 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-28 16:34:52,514 INFO [TumblrImageViewer:656] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-28 16:34:52,517 INFO [TumblrImageViewer:657] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-28 16:34:52,520 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-28 16:34:52,522 INFO [BinaryCacheUtil:47] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-07-28 16:34:52,524 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-28 16:34:52,525 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-07-28 16:34:52,526 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-28 16:34:54,229 INFO [TumblrImageViewer:709] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-07-28 16:37:07,710 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-07-28 16:37:07,711 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-07-28 16:37:07,712 INFO [RssReaderCore:395] - ===================================================================
+2014-07-28 16:37:10,907 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-07-28 16:37:10,910 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-07-28 16:37:13,255 INFO [TumblrImageViewer:656] - fileName :tumblr_n6amm4HrLK1rbr6i2o1_500.jpg
+2014-07-28 16:37:13,257 INFO [TumblrImageViewer:657] - Download URL :http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg
+2014-07-28 16:37:13,284 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-07-28 16:37:13,286 INFO [BinaryCacheUtil:47] - File tumblr_n6amm4HrLK1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-07-28 16:37:13,287 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-07-28 16:37:13,288 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg
+2014-07-28 16:37:13,290 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-07-28 16:37:14,939 INFO [TumblrImageViewer:709] - [DownloadableImage{url='http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-07-28 17:42:09,242 INFO [Bootstrap:48] - Application Running!
+2014-07-28 17:46:09,063 INFO [Bootstrap:48] - Application Running!
+2014-07-28 18:05:36,041 INFO [Bootstrap:48] - Application Running!
+2014-07-28 18:07:47,828 INFO [Bootstrap:48] - Application Running!
+2014-07-31 21:55:24,568 INFO [Bootstrap:48] - Application Running!
+2014-08-01 07:26:38,697 INFO [Bootstrap:48] - Application Running!
+2014-08-01 07:28:20,374 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:38:56,953 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:38:57,100 ERROR [MainFrame$9:386] - org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'mainForm' is defined
+2014-08-01 20:40:40,525 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:43:48,637 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:44:13,215 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 20:44:13,216 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 20:44:13,217 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 20:44:14,693 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 20:44:14,696 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 20:44:14,704 INFO [RssReaderCore:178] - Exception :List must be non-null
+2014-08-01 20:44:16,884 INFO [TumblrImageViewer:656] - fileName :tumblr_ms6meaaWCw1sfcc0qo1_500.jpg
+2014-08-01 20:44:16,886 INFO [TumblrImageViewer:657] - Download URL :http://31.media.tumblr.com/50cdfe8ca2d3a7ee675d79b24589135c/tumblr_ms6meaaWCw1sfcc0qo1_500.jpg
+2014-08-01 20:44:16,890 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 20:44:16,892 INFO [BinaryCacheUtil:47] - File tumblr_ms6meaaWCw1sfcc0qo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_ms6meaaWCw1sfcc0qo1_500.jpg not found, begin downloading...!!
+2014-08-01 20:44:16,893 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 20:44:16,895 INFO [BinaryCacheUtil:66] - url to download : http://31.media.tumblr.com/50cdfe8ca2d3a7ee675d79b24589135c/tumblr_ms6meaaWCw1sfcc0qo1_500.jpg
+2014-08-01 20:44:16,896 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 20:44:18,286 INFO [TumblrImageViewer:709] - [DownloadableImage{url='http://31.media.tumblr.com/50cdfe8ca2d3a7ee675d79b24589135c/tumblr_ms6meaaWCw1sfcc0qo1_500.jpg', urlType='', selected=true}]
+2014-08-01 20:49:22,734 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:49:35,886 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 20:49:35,887 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 20:49:35,888 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 20:49:37,721 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 20:49:37,725 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 20:49:44,561 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 20:49:44,562 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 20:49:44,563 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 20:49:47,678 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 20:49:47,686 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 20:50:20,253 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:50:34,110 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 20:50:34,111 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 20:50:34,112 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 20:50:35,749 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 20:50:35,752 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 20:51:41,633 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:51:50,046 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 20:51:50,047 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 20:51:50,048 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 20:51:51,865 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 20:51:51,869 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 20:52:59,649 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:53:08,599 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 20:53:08,600 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 20:53:08,601 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 20:53:10,049 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 20:53:10,053 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 20:55:05,360 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:55:15,821 ERROR [MainFrame$7:356] - org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'experimentsForm' is defined
+2014-08-01 20:55:20,946 ERROR [MainFrame$7:356] - org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'urlCrawlerForm' is defined
+2014-08-01 20:55:29,007 ERROR [MainFrame$7:356] - org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'urlCrawlerForm' is defined
+2014-08-01 20:56:19,299 INFO [Bootstrap:48] - Application Running!
+2014-08-01 20:56:34,175 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 20:56:34,176 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 20:56:34,177 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 20:56:35,463 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 20:56:35,466 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 20:56:42,848 INFO [TumblrImageViewer:645] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-08-01 20:56:42,850 INFO [TumblrImageViewer:646] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-08-01 20:56:42,852 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 20:56:42,853 INFO [BinaryCacheUtil:47] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-01 20:56:42,854 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 20:56:42,854 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-08-01 20:56:42,855 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 20:56:47,892 INFO [TumblrImageViewer:698] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-01 20:56:51,707 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 20:56:51,708 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 20:56:51,709 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 20:56:52,580 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 20:56:52,595 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 21:15:20,324 INFO [Bootstrap:48] - Application Running!
+2014-08-01 21:15:43,653 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 21:15:43,654 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 21:15:43,655 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 21:15:45,027 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 21:15:45,030 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 21:15:45,039 INFO [RssReaderCore:178] - Exception :List must be non-null
+2014-08-01 21:15:52,717 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 21:15:52,719 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 21:15:52,720 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 21:15:53,774 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 21:15:53,781 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 21:16:46,451 INFO [Bootstrap:48] - Application Running!
+2014-08-01 21:16:56,460 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 21:16:56,461 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 21:16:56,461 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 21:16:57,785 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 21:16:57,794 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 21:17:00,194 INFO [TumblrImageViewer:678] - fileName :tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-08-01 21:17:00,196 INFO [TumblrImageViewer:679] - Download URL :http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-08-01 21:17:00,200 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:17:00,202 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-08-01 21:17:00,217 INFO [TumblrImageViewer:731] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:17:01,646 INFO [TumblrImageViewer:678] - fileName :tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-08-01 21:17:01,648 INFO [TumblrImageViewer:679] - Download URL :http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-08-01 21:17:01,650 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:17:01,652 INFO [BinaryCacheUtil:47] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:17:01,654 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:17:01,656 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-08-01 21:17:01,658 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:17:04,712 INFO [TumblrImageViewer:731] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:35:08,611 INFO [Bootstrap:48] - Application Running!
+2014-08-01 21:35:16,822 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 21:35:16,822 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 21:35:16,823 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 21:35:18,388 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 21:35:18,392 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 21:35:20,808 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://38.media.tumblr.com/tumblr_m9p8ei5xga1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:35:20,810 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:35:20,810 INFO [BinaryCacheUtil:47] - File tumblr_m9p8ei5xga1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9p8ei5xga1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:35:20,811 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:35:20,811 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/tumblr_m9p8ei5xga1re3reeo1_500.jpg
+2014-08-01 21:35:20,811 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:35:24,985 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwla7wdh1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:35:24,985 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:35:24,989 INFO [BinaryCacheUtil:47] - File tumblr_m9iwla7wdh1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwla7wdh1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:35:24,990 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:35:24,991 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9iwla7wdh1re3reeo1_500.jpg
+2014-08-01 21:35:24,991 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:35:28,117 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://38.media.tumblr.com/tumblr_m9p8ei5xga1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:35:28,117 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:35:28,120 INFO [BinaryCacheUtil:44] - File tumblr_m9p8ei5xga1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9p8ei5xga1re3reeo1_500.jpg found...!!
+2014-08-01 21:35:29,280 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwla7wdh1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:35:29,280 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:35:29,283 INFO [BinaryCacheUtil:44] - File tumblr_m9iwla7wdh1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwla7wdh1re3reeo1_500.jpg found...!!
+2014-08-01 21:35:31,296 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwc4iVRx1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:35:31,299 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:35:31,301 INFO [BinaryCacheUtil:47] - File tumblr_m9iwc4iVRx1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwc4iVRx1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:35:31,302 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:35:31,303 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9iwc4iVRx1re3reeo1_500.jpg
+2014-08-01 21:35:31,304 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:36:03,340 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9c7y0AqCe1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:36:03,340 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:36:03,343 INFO [BinaryCacheUtil:47] - File tumblr_m9c7y0AqCe1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9c7y0AqCe1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:36:03,344 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:36:03,344 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9c7y0AqCe1re3reeo1_500.jpg
+2014-08-01 21:36:03,344 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:42:09,856 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://37.media.tumblr.com/tumblr_m99m17VMZG1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:42:09,859 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:42:09,860 INFO [BinaryCacheUtil:47] - File tumblr_m99m17VMZG1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m99m17VMZG1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:42:09,861 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:42:09,861 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/tumblr_m99m17VMZG1re3reeo1_500.jpg
+2014-08-01 21:42:09,862 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:42:15,304 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://37.media.tumblr.com/tumblr_m95ltvQjZP1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:42:15,304 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:42:15,306 INFO [BinaryCacheUtil:47] - File tumblr_m95ltvQjZP1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m95ltvQjZP1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:42:15,307 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:42:15,308 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/tumblr_m95ltvQjZP1re3reeo1_500.jpg
+2014-08-01 21:42:15,309 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:42:22,909 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://37.media.tumblr.com/tumblr_m8usajO7zJ1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:42:22,909 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:42:22,912 INFO [BinaryCacheUtil:47] - File tumblr_m8usajO7zJ1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m8usajO7zJ1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:42:22,913 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:42:22,913 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/tumblr_m8usajO7zJ1re3reeo1_500.jpg
+2014-08-01 21:42:22,914 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:42:25,975 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://37.media.tumblr.com/tumblr_m8us72lmfK1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:42:25,975 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:42:25,978 INFO [BinaryCacheUtil:47] - File tumblr_m8us72lmfK1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m8us72lmfK1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:42:25,978 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:42:25,979 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/tumblr_m8us72lmfK1re3reeo1_500.jpg
+2014-08-01 21:42:25,980 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:42:28,964 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://38.media.tumblr.com/tumblr_m9p8ei5xga1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:42:28,965 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:42:28,968 INFO [BinaryCacheUtil:44] - File tumblr_m9p8ei5xga1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9p8ei5xga1re3reeo1_500.jpg found...!!
+2014-08-01 21:42:30,637 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:42:30,638 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwla7wdh1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:42:30,639 INFO [BinaryCacheUtil:44] - File tumblr_m9iwla7wdh1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwla7wdh1re3reeo1_500.jpg found...!!
+2014-08-01 21:42:32,163 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwi3FHQN1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:42:32,163 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:42:32,166 INFO [BinaryCacheUtil:47] - File tumblr_m9iwi3FHQN1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwi3FHQN1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-01 21:42:32,167 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:42:32,168 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9iwi3FHQN1re3reeo1_500.jpg
+2014-08-01 21:42:32,169 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:48:14,183 ERROR [MainFrame$7:356] - java.lang.ClassCastException: com.josescalia.tumblr.form.TumblrRssFavList cannot be cast to com.josescalia.tumblr.app.BaseForm
+2014-08-01 21:48:28,339 ERROR [MainFrame$7:356] - java.lang.ClassCastException: com.josescalia.tumblr.form.TumblrRssFavList cannot be cast to com.josescalia.tumblr.app.BaseForm
+2014-08-01 21:49:18,548 INFO [Bootstrap:48] - Application Running!
+2014-08-01 21:51:04,461 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 21:51:04,463 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 21:51:04,463 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 21:51:05,900 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 21:51:05,903 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 21:51:07,344 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:51:07,348 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:51:07,349 INFO [BinaryCacheUtil:47] - File tumblr_n6amm4HrLK1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-01 21:51:07,349 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:51:07,350 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg
+2014-08-01 21:51:07,350 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:51:13,128 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://37.media.tumblr.com/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:51:13,128 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:51:13,131 INFO [BinaryCacheUtil:47] - File tumblr_m86n4fMTgA1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-01 21:51:13,132 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:51:13,132 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg
+2014-08-01 21:51:13,133 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:51:16,505 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://31.media.tumblr.com/tumblr_m86mb2bP5I1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:51:16,505 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:51:16,508 INFO [BinaryCacheUtil:47] - File tumblr_m86mb2bP5I1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86mb2bP5I1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-01 21:51:16,509 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:51:16,510 INFO [BinaryCacheUtil:66] - url to download : http://31.media.tumblr.com/tumblr_m86mb2bP5I1rbr6i2o1_500.jpg
+2014-08-01 21:51:16,510 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:51:28,130 INFO [TumblrImageViewer:812] - [DownloadableImage{url='http://38.media.tumblr.com/tumblr_m81d0ifOZt1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-01 21:51:28,130 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-01 21:51:28,132 INFO [BinaryCacheUtil:47] - File tumblr_m81d0ifOZt1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m81d0ifOZt1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-01 21:51:28,136 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-01 21:51:28,137 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/tumblr_m81d0ifOZt1rbr6i2o1_500.jpg
+2014-08-01 21:51:28,137 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-01 21:54:47,003 INFO [Bootstrap:52] - Application Running!
+2014-08-01 21:56:12,919 INFO [Bootstrap:52] - Application Running!
+2014-08-01 21:59:50,711 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:00:18,093 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:05:48,833 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:09:28,885 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:10:32,035 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:11:17,070 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:11:52,672 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:14:11,412 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:15:37,215 INFO [Bootstrap:52] - Application Running!
+2014-08-01 22:15:49,532 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 22:15:49,533 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 22:15:49,533 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 22:16:00,105 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-01 22:16:00,109 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-01 22:16:07,938 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-01 22:16:07,939 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-01 22:16:07,939 INFO [RssReaderCore:395] - ===================================================================
+2014-08-01 22:16:27,969 ERROR [RssReaderCore:373] - 2.java.net.UnknownHostException: gagsandmemes.tumblr.com
+2014-08-01 22:16:27,972 INFO [RssReaderCore:178] - Exception :File cannot be null
+2014-08-16 09:35:57,437 INFO [Bootstrap:61] - Property file is not exist, begin writting...
+2014-08-16 09:36:04,029 INFO [Bootstrap:51] - Application Running!
+2014-08-16 09:36:04,204 ERROR [MainFrame$7:357] - java.lang.IllegalStateException: BeanFactory not initialized or already closed - call 'refresh' before accessing beans via the ApplicationContext
+2014-08-16 09:36:08,664 ERROR [MainFrame$7:357] - java.lang.IllegalStateException: BeanFactory not initialized or already closed - call 'refresh' before accessing beans via the ApplicationContext
+2014-08-16 09:38:35,073 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:38:35,077 ERROR [MainFrame$7:357] - java.lang.IllegalStateException: BeanFactory not initialized or already closed - call 'refresh' before accessing beans via the ApplicationContext
+2014-08-16 09:39:11,764 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:39:39,921 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:39:54,730 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-16 09:39:54,732 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-16 09:39:54,732 INFO [RssReaderCore:395] - ===================================================================
+2014-08-16 09:39:58,094 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-16 09:39:58,112 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-16 09:40:00,278 INFO [TumblrImageViewer:818] - [DownloadableImage{url='http://37.media.tumblr.com/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:40:00,279 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:40:00,280 INFO [BinaryCacheUtil:44] - File tumblr_m86n4fMTgA1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg found...!!
+2014-08-16 09:40:01,533 INFO [TumblrImageViewer:818] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m86n782avQ1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:40:01,533 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:40:01,536 INFO [BinaryCacheUtil:47] - File tumblr_m86n782avQ1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86n782avQ1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-16 09:40:01,537 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:40:01,537 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m86n782avQ1rbr6i2o1_500.jpg
+2014-08-16 09:40:01,538 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:40:03,568 INFO [TumblrImageViewer:818] - [DownloadableImage{url='http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:40:03,568 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:40:03,571 INFO [BinaryCacheUtil:44] - File tumblr_n6amm4HrLK1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg found...!!
+2014-08-16 09:40:05,538 INFO [TumblrImageViewer:818] - [DownloadableImage{url='http://31.media.tumblr.com/tumblr_m86mnoWpcG1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:40:05,538 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:40:05,540 INFO [BinaryCacheUtil:47] - File tumblr_m86mnoWpcG1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86mnoWpcG1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-16 09:40:05,540 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:40:05,540 INFO [BinaryCacheUtil:66] - url to download : http://31.media.tumblr.com/tumblr_m86mnoWpcG1rbr6i2o1_500.jpg
+2014-08-16 09:40:05,541 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:49:22,339 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:49:31,423 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-16 09:49:31,425 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-16 09:49:31,425 INFO [RssReaderCore:395] - ===================================================================
+2014-08-16 09:49:34,815 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-16 09:49:34,818 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-16 09:49:37,069 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:49:37,072 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:49:37,073 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-08-16 09:49:38,196 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:49:38,196 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:49:38,198 INFO [BinaryCacheUtil:47] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:49:38,199 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:49:38,199 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-08-16 09:49:38,199 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:49:40,608 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:49:40,608 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:49:40,610 INFO [BinaryCacheUtil:44] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg found...!!
+2014-08-16 09:49:42,052 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/0dffb4ae385a95319092da4900872a17/tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:49:42,052 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:49:42,056 INFO [BinaryCacheUtil:47] - File tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:49:42,056 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:49:42,057 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/0dffb4ae385a95319092da4900872a17/tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg
+2014-08-16 09:49:42,057 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:51:10,736 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:51:18,396 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-16 09:51:18,397 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-16 09:51:18,397 INFO [RssReaderCore:395] - ===================================================================
+2014-08-16 09:51:21,845 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-16 09:51:22,223 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-16 09:51:22,235 INFO [RssReaderCore:178] - Exception :List must be non-null
+2014-08-16 09:51:23,869 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://31.media.tumblr.com/50cdfe8ca2d3a7ee675d79b24589135c/tumblr_ms6meaaWCw1sfcc0qo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:51:23,873 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:51:23,874 INFO [BinaryCacheUtil:47] - File tumblr_ms6meaaWCw1sfcc0qo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_ms6meaaWCw1sfcc0qo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:51:23,875 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:51:23,876 INFO [BinaryCacheUtil:66] - url to download : http://31.media.tumblr.com/50cdfe8ca2d3a7ee675d79b24589135c/tumblr_ms6meaaWCw1sfcc0qo1_500.jpg
+2014-08-16 09:51:23,877 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:51:34,150 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-16 09:51:34,151 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-16 09:51:34,152 INFO [RssReaderCore:395] - ===================================================================
+2014-08-16 09:51:42,196 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-16 09:51:42,206 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-16 09:51:45,257 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:51:45,257 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:51:45,261 INFO [BinaryCacheUtil:47] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:51:45,261 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:51:45,262 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg
+2014-08-16 09:51:45,263 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:51:49,080 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:51:49,080 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:51:49,084 INFO [BinaryCacheUtil:47] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:51:49,084 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:51:49,085 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg
+2014-08-16 09:51:49,086 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:51:52,266 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:51:52,266 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:51:52,269 INFO [BinaryCacheUtil:47] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:51:52,269 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:51:52,270 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg
+2014-08-16 09:51:52,270 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:53:52,867 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:54:01,515 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-16 09:54:01,516 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-16 09:54:01,516 INFO [RssReaderCore:395] - ===================================================================
+2014-08-16 09:54:05,480 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-16 09:54:05,484 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-16 09:54:07,432 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:54:07,433 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:54:07,434 INFO [BinaryCacheUtil:44] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg found...!!
+2014-08-16 09:54:08,556 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:54:08,556 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:54:08,559 INFO [BinaryCacheUtil:44] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg found...!!
+2014-08-16 09:54:10,333 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:54:10,334 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:54:10,337 INFO [BinaryCacheUtil:47] - File tumblr_mvki1n3gQN1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:54:10,338 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:54:10,339 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg
+2014-08-16 09:54:10,339 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:54:15,637 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:54:15,637 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:54:15,643 INFO [BinaryCacheUtil:47] - File tumblr_mv2n50VJOp1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:54:15,643 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:54:15,644 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg
+2014-08-16 09:54:15,645 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:56:13,268 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:56:23,765 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-16 09:56:23,766 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-16 09:56:23,766 INFO [RssReaderCore:395] - ===================================================================
+2014-08-16 09:56:27,605 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-16 09:56:27,608 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-16 09:56:29,227 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:56:29,229 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:56:29,229 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-08-16 09:56:30,516 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:56:30,516 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:56:30,520 INFO [BinaryCacheUtil:44] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg found...!!
+2014-08-16 09:56:31,662 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:56:31,662 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:56:31,665 INFO [BinaryCacheUtil:47] - File tumblr_mvq8rdloh21sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq8rdloh21sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:56:31,666 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:56:31,667 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg
+2014-08-16 09:56:31,667 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:56:34,211 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:56:34,211 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:56:34,213 INFO [BinaryCacheUtil:44] - File tumblr_mvki1n3gQN1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg found...!!
+2014-08-16 09:56:35,562 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:56:35,562 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:56:35,563 INFO [BinaryCacheUtil:44] - File tumblr_mv2n50VJOp1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg found...!!
+2014-08-16 09:56:36,650 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/c5acd1fd005cf60e52e5c0b3bce5cff9/tumblr_mvpwex6RVk1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:56:36,650 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:56:36,653 INFO [BinaryCacheUtil:47] - File tumblr_mvpwex6RVk1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvpwex6RVk1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:56:36,653 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:56:36,653 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/c5acd1fd005cf60e52e5c0b3bce5cff9/tumblr_mvpwex6RVk1sdbfjbo1_500.jpg
+2014-08-16 09:56:36,654 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:56:48,183 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/843a3d3d3f90c3847e8101a4ad123b49/tumblr_mvq4t6kahY1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:56:48,183 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:56:48,185 INFO [BinaryCacheUtil:47] - File tumblr_mvq4t6kahY1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq4t6kahY1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:56:48,186 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:56:48,186 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/843a3d3d3f90c3847e8101a4ad123b49/tumblr_mvq4t6kahY1sdbfjbo1_500.jpg
+2014-08-16 09:56:48,186 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:58:08,768 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:58:17,028 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-16 09:58:17,029 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-16 09:58:17,030 INFO [RssReaderCore:395] - ===================================================================
+2014-08-16 09:58:23,883 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-16 09:58:23,886 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-16 09:58:26,263 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:58:26,264 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:58:26,265 INFO [BinaryCacheUtil:47] - File tumblr_n6amm4HrLK1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-16 09:58:26,265 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:58:26,266 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg
+2014-08-16 09:58:26,266 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:58:29,438 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m86n782avQ1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:58:29,438 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:58:29,440 INFO [BinaryCacheUtil:47] - File tumblr_m86n782avQ1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86n782avQ1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-16 09:58:29,441 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:58:29,441 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m86n782avQ1rbr6i2o1_500.jpg
+2014-08-16 09:58:29,441 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:58:31,631 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:58:31,633 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:58:31,634 INFO [BinaryCacheUtil:47] - File tumblr_m86n4fMTgA1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-16 09:58:31,635 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:58:31,636 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg
+2014-08-16 09:58:31,636 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:58:34,183 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://31.media.tumblr.com/tumblr_m86mwgxWem1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:58:34,183 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:58:34,185 INFO [BinaryCacheUtil:47] - File tumblr_m86mwgxWem1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86mwgxWem1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-16 09:58:34,186 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:58:34,186 INFO [BinaryCacheUtil:66] - url to download : http://31.media.tumblr.com/tumblr_m86mwgxWem1rbr6i2o1_500.jpg
+2014-08-16 09:58:34,186 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:59:10,744 INFO [Bootstrap$1:51] - Application Running..
+2014-08-16 09:59:21,536 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-16 09:59:21,537 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-16 09:59:21,538 INFO [RssReaderCore:395] - ===================================================================
+2014-08-16 09:59:25,165 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-16 09:59:25,170 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-16 09:59:27,836 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:59:27,838 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:59:27,839 INFO [BinaryCacheUtil:44] - File tumblr_mv2n50VJOp1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg found...!!
+2014-08-16 09:59:29,343 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/c5acd1fd005cf60e52e5c0b3bce5cff9/tumblr_mvpwex6RVk1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:59:29,344 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:59:29,345 INFO [BinaryCacheUtil:44] - File tumblr_mvpwex6RVk1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvpwex6RVk1sdbfjbo1_500.jpg found...!!
+2014-08-16 09:59:30,590 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/74461caea52a9fa54a0af0364e952833/tumblr_mvq4p3oENq1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:59:30,590 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:59:30,593 INFO [BinaryCacheUtil:47] - File tumblr_mvq4p3oENq1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq4p3oENq1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:59:30,593 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:59:30,593 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/74461caea52a9fa54a0af0364e952833/tumblr_mvq4p3oENq1sdbfjbo1_500.jpg
+2014-08-16 09:59:30,594 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:59:33,210 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/f25b66a169210fa62ace666ccde602c9/tumblr_mvof32UIli1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:59:33,211 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:59:33,213 INFO [BinaryCacheUtil:47] - File tumblr_mvof32UIli1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvof32UIli1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:59:33,213 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:59:33,214 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/f25b66a169210fa62ace666ccde602c9/tumblr_mvof32UIli1sdbfjbo1_500.jpg
+2014-08-16 09:59:33,214 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:59:35,440 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:59:35,440 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:59:35,442 INFO [BinaryCacheUtil:47] - File tumblr_mvogbirJYA1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvogbirJYA1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:59:35,442 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:59:35,442 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg
+2014-08-16 09:59:35,442 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:59:37,802 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/0dffb4ae385a95319092da4900872a17/tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:59:37,802 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:59:37,804 INFO [BinaryCacheUtil:47] - File tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:59:37,804 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:59:37,805 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/0dffb4ae385a95319092da4900872a17/tumblr_mvkz2yDTRt1sdbfjbo1_500.jpg
+2014-08-16 09:59:37,805 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 09:59:40,479 INFO [TumblrImageViewer:819] - [DownloadableImage{url='http://38.media.tumblr.com/6c870a67d6494fc70c63ffb2de97e720/tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-16 09:59:40,479 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-16 09:59:40,481 INFO [BinaryCacheUtil:47] - File tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-16 09:59:40,481 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-16 09:59:40,481 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/6c870a67d6494fc70c63ffb2de97e720/tumblr_mvhh5g3oiW1sdbfjbo1_500.jpg
+2014-08-16 09:59:40,482 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-16 10:09:20,457 INFO [Bootstrap$1:53] - Application Running..
+2014-08-16 10:11:05,874 INFO [Bootstrap$1:54] - Application Running..
+2014-08-16 10:23:39,687 INFO [Bootstrap$1:54] - Application Running..
+2014-08-16 10:23:54,315 INFO [Bootstrap$1:54] - Application Running..
+2014-08-23 22:07:53,018 INFO [Bootstrap$1:54] - Application Running..
+2014-08-23 22:08:04,793 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-23 22:08:04,793 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-23 22:08:04,794 INFO [RssReaderCore:395] - ===================================================================
+2014-08-23 22:08:07,938 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-23 22:08:08,257 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-23 22:08:10,280 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://37.media.tumblr.com/7a7ae6713808efba220514eaeab06263/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:08:10,282 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:08:10,283 INFO [BinaryCacheUtil:44] - File tumblr_n6amm4HrLK1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_n6amm4HrLK1rbr6i2o1_500.jpg found...!!
+2014-08-23 22:08:21,198 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m86n782avQ1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:08:21,198 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:08:21,200 INFO [BinaryCacheUtil:44] - File tumblr_m86n782avQ1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86n782avQ1rbr6i2o1_500.jpg found...!!
+2014-08-23 22:08:24,163 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://37.media.tumblr.com/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:08:24,165 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:08:24,177 INFO [BinaryCacheUtil:44] - File tumblr_m86n4fMTgA1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86n4fMTgA1rbr6i2o1_500.jpg found...!!
+2014-08-23 22:08:28,352 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://31.media.tumblr.com/tumblr_m86mwgxWem1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:08:28,352 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:08:28,354 INFO [BinaryCacheUtil:44] - File tumblr_m86mwgxWem1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86mwgxWem1rbr6i2o1_500.jpg found...!!
+2014-08-23 22:08:55,832 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://31.media.tumblr.com/tumblr_m86mb2bP5I1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:08:55,832 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:08:55,834 INFO [BinaryCacheUtil:47] - File tumblr_m86mb2bP5I1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m86mb2bP5I1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-23 22:08:55,834 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:08:55,835 INFO [BinaryCacheUtil:66] - url to download : http://31.media.tumblr.com/tumblr_m86mb2bP5I1rbr6i2o1_500.jpg
+2014-08-23 22:08:55,835 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:09:03,783 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/tumblr_m81d0ifOZt1rbr6i2o1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:09:03,784 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:09:03,785 INFO [BinaryCacheUtil:47] - File tumblr_m81d0ifOZt1rbr6i2o1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m81d0ifOZt1rbr6i2o1_500.jpg not found, begin downloading...!!
+2014-08-23 22:09:03,786 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:09:03,786 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/tumblr_m81d0ifOZt1rbr6i2o1_500.jpg
+2014-08-23 22:09:03,786 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:09:34,887 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-23 22:09:34,888 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-23 22:09:34,889 INFO [RssReaderCore:395] - ===================================================================
+2014-08-23 22:09:37,736 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-23 22:09:37,739 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-23 22:09:43,070 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/tumblr_m9p8ei5xga1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:09:43,070 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:09:43,073 INFO [BinaryCacheUtil:47] - File tumblr_m9p8ei5xga1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9p8ei5xga1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:09:43,073 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:09:43,074 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/tumblr_m9p8ei5xga1re3reeo1_500.jpg
+2014-08-23 22:09:43,075 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:10:01,337 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:10:01,337 INFO [BinaryCacheUtil:47] - File tumblr_m9iwftmnZz1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwftmnZz1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:10:01,338 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:10:01,338 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwftmnZz1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:10:01,338 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9iwftmnZz1re3reeo1_500.jpg
+2014-08-23 22:10:01,340 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:10:14,168 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwi3FHQN1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:10:14,168 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:10:14,172 INFO [BinaryCacheUtil:47] - File tumblr_m9iwi3FHQN1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwi3FHQN1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:10:14,173 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:10:14,173 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9iwi3FHQN1re3reeo1_500.jpg
+2014-08-23 22:10:14,174 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:10:21,845 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwla7wdh1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:10:21,845 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:10:21,846 INFO [BinaryCacheUtil:47] - File tumblr_m9iwla7wdh1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwla7wdh1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:10:21,847 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:10:21,847 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9iwla7wdh1re3reeo1_500.jpg
+2014-08-23 22:10:21,848 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:10:30,423 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:10:30,424 INFO [BinaryCacheUtil:44] - File tumblr_m9iwftmnZz1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwftmnZz1re3reeo1_500.jpg found...!!
+2014-08-23 22:10:30,424 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwftmnZz1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:10:31,469 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwc4iVRx1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:10:31,469 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:10:31,471 INFO [BinaryCacheUtil:47] - File tumblr_m9iwc4iVRx1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwc4iVRx1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:10:31,471 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:10:31,471 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9iwc4iVRx1re3reeo1_500.jpg
+2014-08-23 22:10:31,472 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:10:42,375 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9c7y0AqCe1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:10:42,375 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:10:42,376 INFO [BinaryCacheUtil:47] - File tumblr_m9c7y0AqCe1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9c7y0AqCe1re3reeo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:10:42,377 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:10:42,377 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/tumblr_m9c7y0AqCe1re3reeo1_500.jpg
+2014-08-23 22:10:42,377 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:11:05,102 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/tumblr_m9iwi3FHQN1re3reeo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:11:05,102 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:11:05,105 INFO [BinaryCacheUtil:44] - File tumblr_m9iwi3FHQN1re3reeo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_m9iwi3FHQN1re3reeo1_500.jpg found...!!
+2014-08-23 22:11:25,767 INFO [RssReaderCore:384] - ========================= Connection info =========================
+2014-08-23 22:11:25,768 INFO [RssReaderCore:385] - Connection Using Proxy : false
+2014-08-23 22:11:25,769 INFO [RssReaderCore:395] - ===================================================================
+2014-08-23 22:11:30,703 INFO [RssReaderCore:343] - Http Response status : HTTP/1.1 200 OK
+2014-08-23 22:11:30,707 INFO [RssReaderCore:366] - Creating xml cache done!!
+2014-08-23 22:11:32,381 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://37.media.tumblr.com/5698435fa7ce0feb474917c6cb1a756b/tumblr_mzi448oAMe1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:11:32,381 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:11:32,382 INFO [BinaryCacheUtil:44] - File tumblr_mzi448oAMe1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mzi448oAMe1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:11:33,929 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/95750c7601d87b13fd3ac1bf9312764e/tumblr_mvqunt21aj1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:11:33,929 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:11:33,933 INFO [BinaryCacheUtil:44] - File tumblr_mvqunt21aj1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvqunt21aj1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:11:35,160 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:11:35,161 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://37.media.tumblr.com/83c8eca63d5711456e8f5137231006d5/tumblr_mvx97ixRn81sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:11:35,161 INFO [BinaryCacheUtil:44] - File tumblr_mvx97ixRn81sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvx97ixRn81sdbfjbo1_500.jpg found...!!
+2014-08-23 22:11:54,085 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/95fd2e4efb121a5e8286450e70c0c6ab/tumblr_mvq8rdloh21sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:11:54,085 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:11:54,088 INFO [BinaryCacheUtil:44] - File tumblr_mvq8rdloh21sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq8rdloh21sdbfjbo1_500.jpg found...!!
+2014-08-23 22:12:00,316 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/0eb2e9ff0633304c176305436ae2bf5e/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:00,316 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:00,318 INFO [BinaryCacheUtil:44] - File tumblr_mvki1n3gQN1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvki1n3gQN1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:12:02,330 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:02,331 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://37.media.tumblr.com/87af696d496a1a6d50d043fcfb192cae/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:02,331 INFO [BinaryCacheUtil:44] - File tumblr_mv2n50VJOp1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mv2n50VJOp1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:12:19,191 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/c5acd1fd005cf60e52e5c0b3bce5cff9/tumblr_mvpwex6RVk1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:19,191 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:19,194 INFO [BinaryCacheUtil:44] - File tumblr_mvpwex6RVk1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvpwex6RVk1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:12:24,362 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/843a3d3d3f90c3847e8101a4ad123b49/tumblr_mvq4t6kahY1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:24,363 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:24,365 INFO [BinaryCacheUtil:44] - File tumblr_mvq4t6kahY1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq4t6kahY1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:12:26,426 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/74461caea52a9fa54a0af0364e952833/tumblr_mvq4p3oENq1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:26,426 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:26,428 INFO [BinaryCacheUtil:44] - File tumblr_mvq4p3oENq1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvq4p3oENq1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:12:28,031 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/f25b66a169210fa62ace666ccde602c9/tumblr_mvof32UIli1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:28,031 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:28,033 INFO [BinaryCacheUtil:44] - File tumblr_mvof32UIli1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvof32UIli1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:12:31,347 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/113eb49e006ed74925cbe23b53597000/tumblr_mvogbirJYA1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:31,347 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:31,351 INFO [BinaryCacheUtil:44] - File tumblr_mvogbirJYA1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvogbirJYA1sdbfjbo1_500.jpg found...!!
+2014-08-23 22:12:39,473 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/11f8c64d1365e7363070e005f920235a/tumblr_mvkyt74hLt1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:39,473 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:39,476 INFO [BinaryCacheUtil:47] - File tumblr_mvkyt74hLt1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mvkyt74hLt1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:12:39,477 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:12:39,477 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/11f8c64d1365e7363070e005f920235a/tumblr_mvkyt74hLt1sdbfjbo1_500.jpg
+2014-08-23 22:12:39,478 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:12:45,299 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://37.media.tumblr.com/9fd516ad5fc251ea63666c6d9b2a59fb/tumblr_mufhjhACJH1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:45,299 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:45,302 INFO [BinaryCacheUtil:47] - File tumblr_mufhjhACJH1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mufhjhACJH1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:12:45,303 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:12:45,303 INFO [BinaryCacheUtil:66] - url to download : http://37.media.tumblr.com/9fd516ad5fc251ea63666c6d9b2a59fb/tumblr_mufhjhACJH1sdbfjbo1_500.jpg
+2014-08-23 22:12:45,304 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:12:50,257 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://33.media.tumblr.com/4ebb3f369c7d181d6f66e34a972bdf90/tumblr_mu2kctmd2W1sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:50,257 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:50,260 INFO [BinaryCacheUtil:47] - File tumblr_mu2kctmd2W1sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mu2kctmd2W1sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:12:50,261 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:12:50,261 INFO [BinaryCacheUtil:66] - url to download : http://33.media.tumblr.com/4ebb3f369c7d181d6f66e34a972bdf90/tumblr_mu2kctmd2W1sdbfjbo1_500.jpg
+2014-08-23 22:12:50,262 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache
+2014-08-23 22:12:56,521 INFO [TumblrImageViewer:823] - [DownloadableImage{url='http://38.media.tumblr.com/9e1aa86a7064b77ffae1f60c7c1f7bac/tumblr_mtpnj6PFV01sdbfjbo1_500.jpg', urlType='', selected=true}]
+2014-08-23 22:12:56,521 INFO [BinaryCacheUtil:24] - Storage Path : .cache
+2014-08-23 22:12:56,523 INFO [BinaryCacheUtil:47] - File tumblr_mtpnj6PFV01sdbfjbo1_500.jpg in folder /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache/tumblr_mtpnj6PFV01sdbfjbo1_500.jpg not found, begin downloading...!!
+2014-08-23 22:12:56,523 INFO [BinaryCacheUtil:65] - Downloading Binary..!!!
+2014-08-23 22:12:56,524 INFO [BinaryCacheUtil:66] - url to download : http://38.media.tumblr.com/9e1aa86a7064b77ffae1f60c7c1f7bac/tumblr_mtpnj6PFV01sdbfjbo1_500.jpg
+2014-08-23 22:12:56,524 INFO [BinaryCacheUtil:67] - Folder to store : /media/WIN_E/Data/MyProject/OpenSourced/tumblr-rss-image-viewer/.cache

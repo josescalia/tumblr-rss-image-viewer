@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Tumblr Rss Image Viewer Help File</title>
+</head>
+<body>
+<div class="paging-top">
+    <div class="page-prev"><a href="forms.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-left"></span> Prev</a></div>
+    <div class="page-up"><a href="index.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-up"></span> 1st Page</a></div>
+    <div class="page-next"><a href="tumblr_rss_fav_list.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-right"></span> Next</a></div>
+</div>
+<div class="content">
+    <h4 class="text-primary">1. Tumblr Rss Image Viewer</h4>
+
+    <p>
+        This is the primary form of this application, with this form you will access the Tumblr blog feed. Once you fetch
+        one of your favorite Tumblr blog, the result will be displayed per blog post, you can choose each blog post displayed
+        on the result table, when it selected, the blog post which containing image will automatically download the contents
+        and stored in cache folder. So next time you viewing the same blog post, it will no longer download the contents from
+        the internet.
+        <img src="img/tumblr-rss-image-viewer-form.png" class="img-thumbnail">
+    </p>
+
+    <p>
+        This form can also save your favorite Tumblr blog link directly by clicking the <strong>Save</strong> button.
+        Once you clicked the button, it will automatically save the link to the database, so in any other time you can
+        load the saved link by pressing the <strong>Load</strong> button. This form also have an ability to download the
+        images of the content into your selected folder by clicking the <strong>Download</strong> button, the downloaded
+        content will be save in a folder where <strong>Download Path</strong> declared. But you can also change this
+        <strong>Download Path</strong> where ever you like by using <strong>Change Folder</strong> button, and also open
+        the folder of <strong>Download Path</strong> directly by clicking the <strong>Open Folder</strong> button.
+    </p>
+</div>
+
+<div class="paging-bottom">
+    <div class="page-prev"><a href="forms.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-left"></span> Prev</a></div>
+    <div class="page-up"><a href="index.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-up"></span> 1st Page</a></div>
+    <div class="page-next"><a href="tumblr_rss_fav_list.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-right"></span> Next</a></div>
+</div>
+</body>
+</html>

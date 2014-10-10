@@ -1,0 +1,131 @@
+body {
+    font-family: verdana, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+ol li, ul li {
+    margin-left: -15px;
+}
+
+.description {
+    width: 800px;
+    padding: 2px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.description h2 {
+    margin: 2px;
+}
+
+.description h3 {
+    margin: 1px;
+    padding-left: 20px;
+}
+
+.description p {
+    margin: 1px;
+}
+
+.child_description {
+    padding-left: 20px;
+}
+
+.child_description ol {
+    margin-top: 2px;
+}
+
+.screenshot {
+    width: 100%;
+    height: 100%;
+    border: 1px solid lightgrey;
+    padding: 3px;
+    margin: 5px 0 3px;
+}
+
+.small_screenshot {
+    width: 30%;
+    height: 30%;
+    border: 1px solid lightgrey;
+    padding: 3px;
+    margin: 5px 0 3px;
+}
+
+.half_screenshot {
+    width: 50%;
+    height: 50%;
+    border: 1px solid lightgrey;
+    padding: 3px;
+    margin: 5px 0 3px;
+}
+
+.back_to_top {
+    width: 800px;
+    text-align: right;
+    padding-top: 5px;
+}
+
+.back_to_top a {
+    color: white;
+    font-weight: bold;
+    background-color: darkblue;
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 3px;
+
+}
+
+#catalog {
+    border-bottom: 1px solid lightgrey;
+    width: 800px;
+    margin: 0 0 0 30px;
+}
+
+.versionTag {
+    font-style: italic;
+    color: darkblue;
+}
+
+.versionTag a {
+    text-decoration: none;
+}
+
+.content {
+    min-height:500px;
+    /*border: 1px solid red;*/
+    width: 90%;
+    margin: 0 auto;
+}
+
+.paging-top{
+    margin: 30px auto;
+}
+
+.paging-bottom{
+    margin: 0 auto;
+}
+.paging-top, .paging-bottom{
+    width: 90%;
+    padding-bottom:25px;
+    padding-top:5px;
+    padding-left:10px;
+    background-color: lightgray;
+    border: 1px solid #bcbcbc;
+    border-radius: 5px;
+}
+
+.page-prev {
+    width: 33%;
+    float: left;
+}
+
+.page-up {
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+
+.page-next {
+    width: 33%;
+    float: left;
+    text-align: right;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Tumblr Rss Image Viewer Help File</title>
+</head>
+<body>
+<div class="paging-top">
+    <div class="page-prev"><a href="about.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-left"></span> Prev</a></div>
+    <div class="page-up"><a href="index.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-up"></span> 1st Page</a></div>
+    <div class="page-next"><a href="forms.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-right"></span> Next</a></div>
+</div>
+<div class="content">
+
+    <h2>II. Database</h2>
+
+    <p>
+        Just like any other standalone Java desktop application, this application also use the <a href="http://www.h2database.com">
+        h2database</a>, in order to make user directly run the application without environment setup. The H2Database is a file
+        based database that can be stored in any other location, but in this application the database file can be found in a folder
+        called <strong>data</strong> in this application directory. The h2database is locked by a single instance connection, means
+        that this application also can only have single instance, the other instance of this application which shared same database
+        will not working well because it's database already locked up by 1st instance of this application.
+    </p>
+
+
+</div>
+<div class="paging-bottom">
+    <div class="page-prev"><a href="about.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-left"></span> Prev</a></div>
+    <div class="page-up"><a href="index.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-up"></span> 1st Page</a></div>
+    <div class="page-next"><a href="forms.html" class="btn btn-primary btn-xs"><span
+            class="glyphicon glyphicon-arrow-right"></span> Next</a></div>
+</div>
+</body>
+</html>
